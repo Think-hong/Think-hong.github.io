@@ -15,12 +15,10 @@ I'm dedicated to advancing medical AI, specializing in disease prediction. I've 
 
 ## Education
 
-- **Degree 1:** Bachelor of Science in Biomedical Engineering
+- **Degree 1:** Bachelor of Integrated BioTechnology
   - **University:** Sungkyunkwan University
-  - **Year of Graduation:** [Year]
 - **Degree 2:** Bachelor of Science in Software Engineering
   - **University:** Sungkyunkwan University
-  - **Year of Graduation:** [Year]
 - **Relevant Courses:**
   - Digital Health Introduction
   - Deep Neural Network Theory
