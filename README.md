@@ -4,7 +4,7 @@ Hi there! I'm Seo Yun Hong, a researcher in medical artificial intelligence. I'm
 
 ## Career Summary
 
-I'm trying to dedicate advancing medical AI, specializing in disease prediction. I'm doing projects developing predictive models for personalized treatment. I'm committed to driving impactful advancements at the intersection of AI and healthcare.
+I'm trying to dedicate advancing medical AI, specializing in disease prediction. I'm doing projects developing predictive models for personalized treatment.
 
 
 ## Skills
