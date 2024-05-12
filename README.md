@@ -1,10 +1,10 @@
 # Introduction
 
-Hi there! I'm Seo Yun Hong, a researcher in medical artificial intelligence. I'm currently pursuing a dual major in Biomedical Engineering and Software Engineering at Sungkyunkwan University. I have a passion for exploring the intersection of technology and healthcare, with a focus on developing innovative solutions to improve patient care and outcomes.
+Hi there! I'm Seo Yun Hong, a researcher in medical artificial intelligence. I'm currently pursuing a dual major in Integrative BioTechnology and Software Engineering at Sungkyunkwan University. I have a passion for exploring the intersection of technology and healthcare, with a focus on developing innovative solutions to improve patient care and outcomes.
 
 ## Career Summary
 
-I'm dedicated to advancing medical AI, specializing in disease prediction. I've led projects developing predictive models for personalized treatment plans. I'm committed to driving impactful advancements at the intersection of technology and medicine.
+I'm trying to dedicate advancing medical AI, specializing in disease prediction. I'm doing projects developing predictive models for personalized treatment. I'm committed to driving impactful advancements at the intersection of AI and healthcare.
 
 
 ## Skills
@@ -15,9 +15,9 @@ I'm dedicated to advancing medical AI, specializing in disease prediction. I've 
 
 ## Education
 
-- **Degree 1:** Bachelor of Integrated BioTechnology
+- **Degree 1:** Bachelor of Integrative BioTechnology
   - **University:** Sungkyunkwan University
-- **Degree 2:** Bachelor of Science in Software Engineering
+- **Degree 2:** Bachelor of Software
   - **University:** Sungkyunkwan University
 - **Relevant Courses:**
   - Digital Health Introduction
